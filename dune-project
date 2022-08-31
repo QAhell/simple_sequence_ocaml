@@ -17,6 +17,7 @@
 
 (package
  (name sequence)
+ (version 0.1)
  (synopsis "An interface for sequences and implementations based on lists, lazy lists and arrays")
  (description "An interface for sequences and implementations based on lists, lazy lists and arrays")
  (depends ocaml dune)
