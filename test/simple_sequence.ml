@@ -1,4 +1,4 @@
-open Sequence
+open Simple_sequence
 
 module Sequence_test (S : Sequence) =
   struct

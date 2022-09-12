@@ -1,11 +1,11 @@
 (lang dune 3.4)
 
-(name sequence)
+(name simple_sequence)
 
 (generate_opam_files true)
 
 (source
- (github QAhell/sequence_ocaml))
+ (github QAhell/simple_sequence_ocaml))
 
 (authors "Armin Heller")
 
@@ -13,10 +13,10 @@
 
 (license Apache-2.0)
 
-(documentation https://github.com/QAhell/sequence_ocaml)
+(documentation https://github.com/QAhell/simple_sequence_ocaml)
 
 (package
- (name sequence)
+ (name simple_sequence)
  (version 0.1)
  (synopsis "An interface for sequences and implementations based on lists, lazy lists and arrays")
  (description "An interface for sequences and implementations based on lists, lazy lists and arrays")

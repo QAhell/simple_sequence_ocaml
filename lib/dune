@@ -1,3 +1,3 @@
 (library
- (public_name sequence)
- (name sequence))
+ (public_name simple_sequence)
+ (name simple_sequence))

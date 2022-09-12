@@ -9,9 +9,9 @@ maintainer: ["Armin Heller"]
 authors: ["Armin Heller"]
 license: "Apache-2.0"
 tags: ["topics" "sequence"]
-homepage: "https://github.com/QAhell/sequence_ocaml"
-doc: "https://github.com/QAhell/sequence_ocaml"
-bug-reports: "https://github.com/QAhell/sequence_ocaml/issues"
+homepage: "https://github.com/QAhell/simple_sequence_ocaml"
+doc: "https://github.com/QAhell/simple_sequence_ocaml"
+bug-reports: "https://github.com/QAhell/simple_sequence_ocaml/issues"
 depends: [
   "ocaml"
   "dune" {>= "3.4"}
@@ -31,4 +31,4 @@ build: [
     "@doc" {with-doc}
   ]
 ]
-dev-repo: "git+https://github.com/QAhell/sequence_ocaml.git"
+dev-repo: "git+https://github.com/QAhell/simple_sequence_ocaml.git"

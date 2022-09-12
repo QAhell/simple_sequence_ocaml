@@ -1,3 +1,3 @@
 (test
- (name sequence)
- (libraries sequence))
+ (name simple_sequence)
+ (libraries simple_sequence))
